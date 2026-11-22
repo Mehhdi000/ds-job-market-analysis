@@ -22,7 +22,3 @@ Scraped job board data is full of formatting artifacts, masked nulls (`-1`), and
 * **Regex (`re`)** — Text parsing and string extraction
 * **Matplotlib & Seaborn** — Statistical data visualization
 
-## Usage
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/yourusername/ds-jobs-cleaning-eda.git](https://github.com/yourusername/ds-jobs-cleaning-eda.git)
